@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hospital Management/Hospital Management.csproj" />
+  <Project Path="Library/Library Management.csproj" />
+  <Project Path="Online Market Management/Online Market Management.csproj" />
+  <Project Path="University Management/University Management.csproj" />
+</Solution>
